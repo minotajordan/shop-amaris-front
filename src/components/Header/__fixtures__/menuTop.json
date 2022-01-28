@@ -1,0 +1,18 @@
+[
+  {
+    "key": "/",
+    "translate": "menuTop.profile",
+    "title": "profile",
+    "desc": "profile",
+    "ico": "profile",
+    "pathname": "/profile"
+  },
+  {
+    "key": "/",
+    "translate": "menuTop.language",
+    "title": "language",
+    "desc": "language",
+    "ico": "lang",
+    "pathname": "/lang"
+  }
+]

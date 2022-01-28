@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Example/Header Default 1`] = `
+.c0 {
+  padding: 0 0px;
+}
+
+<header
+  className="c0"
+>
+  <ul
+    className="ant-menu-overflow ant-menu ant-menu-root ant-menu-horizontal ant-menu-light top-nav"
+    data-menu-list={true}
+    onKeyDown={[Function]}
+    role="menu"
+    tabIndex={0}
+  >
+    <img
+      className="top-nav-logo"
+      eventKey="tmp_key-0"
+      src="https://www.lider.cl/images/logo.svg"
+      warnKey={true}
+    />
+    <li
+      aria-hidden={true}
+      className="ant-menu-overflow-item ant-menu-overflow-item-rest ant-menu-submenu ant-menu-submenu-horizontal ant-menu-submenu-disabled"
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      role="none"
+      style={
+        Object {
+          "height": 0,
+          "opacity": 0,
+          "order": 9007199254740991,
+          "overflowY": "hidden",
+          "pointerEvents": "none",
+          "position": "absolute",
+        }
+      }
+    >
+      <div
+        aria-controls={null}
+        aria-disabled={true}
+        aria-expanded={false}
+        aria-haspopup={true}
+        className="ant-menu-submenu-title"
+        data-menu-id={null}
+        onClick={[Function]}
+        onFocus={[Function]}
+        role="menuitem"
+        style={null}
+        tabIndex={null}
+        title={null}
+      >
+        <span
+          aria-label="ellipsis"
+          className="anticon anticon-ellipsis"
+          role="img"
+        >
+          <svg
+            aria-hidden="true"
+            data-icon="ellipsis"
+            fill="currentColor"
+            focusable="false"
+            height="1em"
+            viewBox="64 64 896 896"
+            width="1em"
+          >
+            <path
+              d="M176 511a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0zm280 0a56 56 0 10112 0 56 56 0 10-112 0z"
+            />
+          </svg>
+        </span>
+        <i
+          className="ant-menu-submenu-arrow"
+        />
+      </div>
+    </li>
+  </ul>
+  <div
+    aria-hidden={true}
+    style={
+      Object {
+        "display": "none",
+      }
+    }
+  >
+    <img
+      className="top-nav-logo"
+      eventKey="tmp_key-0"
+      src="https://www.lider.cl/images/logo.svg"
+      warnKey={true}
+    />
+  </div>
+  <NavMenu
+    menuItems={
+      Array [
+        Object {
+          "desc": "项目主页面",
+          "key": "/",
+          "pathname": "/",
+          "title": "主页",
+          "translate": "menu.home",
+        },
+        Object {
+          "desc": "用户信息",
+          "key": "/user",
+          "pathname": "/user",
+          "title": "用户页",
+          "translate": "menu.user",
+        },
+        Object {
+          "desc": "文章列表来展示请求数据",
+          "key": "/articles",
+          "pathname": "/articles",
+          "title": "文章列表页",
+          "translate": "menu.article",
+        },
+        Object {
+          "desc": "Products",
+          "key": "/products",
+          "pathname": "/products",
+          "title": "Products",
+          "translate": "menu.products",
+        },
+      ]
+    }
+  />
+</header>
+`;

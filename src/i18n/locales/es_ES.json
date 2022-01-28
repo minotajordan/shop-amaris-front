@@ -1,0 +1,26 @@
+{
+  "home": {
+    "products": "Productos",
+    "change_lang": "Cambiar lenguaje a Ingles"
+  },
+  "menuTop": {
+    "language": "ES",
+    "car": "Carrito",
+    "profile": "Perfil"
+  },
+  "menu": {
+    "home": "Inicio",
+    "products": "Productos"
+  },
+  "products": {
+    "title": "Productos",
+    "intro": "Ahora es el momento de elegir sin límites"
+  },
+  "footer": {
+    "copyright": "Jordan Minota - Test Amaris 2022"
+  },
+  "error": {
+    "404": "Lo sentimo :("
+  },
+  "back_home": "Pagina anterior"
+}
